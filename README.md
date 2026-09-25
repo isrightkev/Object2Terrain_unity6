@@ -31,8 +31,8 @@ Terrain captures the upper surface: notice that the open arch on the left become
 
 ## Installation
 
-1. Download `Object2Terrain.cs` from this repository.
-2. Place it in your Unity project at `Assets/Editor/Object2Terrain.cs`. Create the `Editor` folder if needed.
+1. Download `Object2Terrain_unity6.cs` from this repository.
+2. Place it in your Unity project at `Assets/Editor/Object2Terrain_unity6.cs`. Create the `Editor` folder if needed.
 3. If you have an older copy, replace it rather than keeping both scripts.
 4. Let Unity finish compiling.
 
