@@ -25,7 +25,7 @@ small-gap repair, isolated spike/pit removal, optional smoothing and 16-bit RAW 
 
 Updated for Unity 6 by https://labglitch.com/
 
-Install in Assets/Editor/Object2Terrain.cs
+Install in Assets/Editor/Object2Terrain_unity6.cs
 Make sure the 3D mesh has Read/Write enabled.
 
 1. Select your 3D mesh in the scene.
