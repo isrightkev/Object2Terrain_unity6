@@ -4,7 +4,7 @@ Convert a 3D mesh into an editable Unity Terrain, with optional heightmap cleanu
 
 **Version 2.3** · Updated by [LabGlitch](https://labglitch.com/) · Original script by **Eric Haines (Eric5h5)**
 
-Developed while building a pirate island game, this update brings the original Object2Terrain workflow to Unity 6 and adds saved TerrainData assets, child mesh support, cleanup controls and source object handling.
+This update brings the original Object2Terrain workflow to Unity 6 and adds saved TerrainData assets, child mesh support, cleanup controls and source object handling.
 
 ## Before and after
 
